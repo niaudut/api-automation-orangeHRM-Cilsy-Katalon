@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Update_Employee_Contact_Detail_Email_Exists</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>434ddc8b-e0ac-4e59-ad0c-0e2b21a66668</testCaseGuid>
+</TestCaseEntity>

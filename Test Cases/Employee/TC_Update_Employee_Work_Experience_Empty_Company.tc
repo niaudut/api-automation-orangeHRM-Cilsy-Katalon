@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Update_Employee_Work_Experience_Empty_Company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6338ad5e-259e-44e9-aafe-19f5b169a7f8</testCaseGuid>
+</TestCaseEntity>

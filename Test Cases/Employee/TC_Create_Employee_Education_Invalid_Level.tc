@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create_Employee_Education_Invalid_Level</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd0fbb61-769e-4a30-a078-486eb80dfc43</testCaseGuid>
+</TestCaseEntity>

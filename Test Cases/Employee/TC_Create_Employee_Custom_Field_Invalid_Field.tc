@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create_Employee_Custom_Field_Invalid_Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>919e512f-7129-41c3-afec-eb2b76a481e3</testCaseGuid>
+</TestCaseEntity>

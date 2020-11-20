@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create_Employee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbf6203b-e1e7-4c78-97ca-85ee59198953</testCaseGuid>
+</TestCaseEntity>

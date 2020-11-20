@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Create_Employee_Job_Detail_Invalid_Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8ecc917-41f5-4115-a189-c1d8c836fe40</testCaseGuid>
+</TestCaseEntity>

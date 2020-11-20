@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Delete_Employee_Custom_Field_Invalid_Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6901730e-3c41-4afa-b80d-d7cede293538</testCaseGuid>
+</TestCaseEntity>
